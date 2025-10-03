@@ -1,0 +1,222 @@
+cv:
+  name: Abdallah Aloush
+  location: Alexandria, Egypt
+  email: abdallahaloush6@gmail.com
+  phone: +20-12-1167-9806 
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: abdallah-aloush
+    - network: GitHub
+      username: AbdallahAloush
+  sections:
+    education:
+      - institution: Alexandria University
+        area: Computer and Communications Engineering
+        degree: BS
+        start_date: 2018
+        end_date: 2023
+        summary:
+        highlights:
+          - "GPA: 3.2/4.0"
+    experience:
+      - company: TrianglZ LLC
+        position: Back End SWE Intern
+        date:
+        start_date: 2023-02
+        end_date: 2023-04
+        summary:
+        highlights:
+          - Built multiple verification endpoints using Ruby on Rails, resulting in a more efficient verification process.
+          - Implemented authorization policies using Pundit, enforcing compliance with data access rules.
+          - Wrote and maintained API documentation using Swagger, resulting in fewer integration errors.
+    projects:
+      - name: 'Relational Database Management System (Graduation Project)'
+        summary: Rust
+        highlights:
+          - Designed an SQL parser and developed logical and physical query planning systems capable of handling multiple inner joins, sorting, filtering, and grouping operations.
+          - Architected a storage engine featuring optimized buffer utilization, incorporating Hash and B+ Tree indexes, and supporting variable-length relation attributes.
+          - Implemented support for dynamic schemas encompassing various data types and relational constraints.
+      - name: 'Gym Management System'
+        summary: Java
+        highlights:
+          - Implemented a user-friendly GUI using JavaFX for adding, modifying, and managing users' data.
+          - Adhered to Test-Driven Development (TDD) methodologies within our team to ensure the system's integrity and conduct ongoing regression testing while collectively implementing new features.
+          - Used several OOP design patterns, including Singleton and Factory patterns, resulting in a readable and extensible code base.
+      - name: Multithreaded Server-Client
+        summary: Python
+        highlights:
+          - Designed a multithreaded HTTP server, maintaining a persistent connection for each client.
+          - Implemented a heuristic timeout algorithm, preventing the server from being overloaded.
+          - Designed and implemented a simple client, allowing more robust testing of the server.
+      - name: Mathematical Expression Interpreter
+        summary: C
+        highlights:
+          - Built a stack-based infix-to-postfix converter, improving expression evaluation efficiency.
+          - Stored evaluated expressions in a BST, enabling faster variable lookup.
+    skills:
+      - label: Programming Languages
+        details: C | Rust | Python | SQL | Java | JavaScript
+      - label: Web frameworks
+        details: Ruby on Rails
+      - label: Tools
+        details: Git | OOP | Datastructures | Algorithms
+    extracurricular_activities:
+      - name: Loyal Victorians
+        highlights: 
+        - Best media member of the science and engineering fair committee.
+        - Head of Media in the Graduation Ceremony Organizing Committee.
+    certifications:
+      - name: "[Fundamentals of Back End Engineering by Hussein Nasser](http://ude.my/UC-47ad85aa-bf6a-465a-b6ee-20ab849c4c75)"
+design:
+  theme: engineeringresumes
+  # page:
+  #   size: a4
+  #   top_margin: 1cm
+  #   bottom_margin: 1cm
+  #   left_margin: 1cm
+  #   right_margin: 1cm
+  #   show_page_numbering: true
+  #   show_last_updated_date: true
+  # colors:
+  #   text: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  # text:
+  #   font_family: Source Sans 3
+  #   font_size: 10pt
+  #   leading: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  # links:
+  #   underline: false
+  #   use_external_link_icon: true
+  # header:
+  #   name_font_family: Source Sans 3
+  #   name_font_size: 30pt
+  #   name_bold: true
+  #   photo_width: 3.5cm
+  #   vertical_space_between_name_and_connections: 0.7cm
+  #   vertical_space_between_connections_and_first_section: 0.7cm
+  #   horizontal_space_between_connections: 0.5cm
+  #   connections_font_family: Source Sans 3
+  #   separator_between_connections: ''
+  #   use_icons_for_connections: true
+  #   alignment: center
+  # section_titles:
+  #   type: with-parial-line
+  #   font_family: Source Sans 3
+  #   font_size: 1.4em
+  #   bold: true
+  #   small_caps: false
+  #   line_thickness: 0.5pt
+  #   vertical_space_above: 0.5cm
+  #   vertical_space_below: 0.3cm
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   left_and_right_margin: 0.2cm
+  #   horizontal_space_between_columns: 0.1cm
+  #   vertical_space_between_entries: 1.2em
+  #   allow_page_break_in_sections: true
+  #   allow_page_break_in_entries: true
+  #   short_second_row: false
+  #   show_time_spans_in: []
+  # highlights:
+  #   bullet: •
+  #   top_margin: 0.25cm
+  #   left_margin: 0.4cm
+  #   vertical_space_between_highlights: 0.25cm
+  #   horizontal_space_between_bullet_and_highlight: 0.5em
+  #   summary_left_margin: 0cm
+  # entry_types:
+  #   one_line_entry:
+  #     template: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column_first_row_template: '**INSTITUTION**, AREA'
+  #     degree_column_template: '**DEGREE**'
+  #     degree_column_width: 1cm
+  #     main_column_second_row_template: |-
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column_template: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column_first_row_template: '**NAME**'
+  #     main_column_second_row_template: |-
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column_template: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column_first_row_template: '**COMPANY**, POSITION'
+  #     main_column_second_row_template: |-
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column_template: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column_first_row_template: '**TITLE**'
+  #     main_column_second_row_template: |-
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     main_column_second_row_without_journal_template: |-
+  #       AUTHORS
+  #       URL
+  #     main_column_second_row_without_url_template: |-
+  #       AUTHORS
+  #       JOURNAL
+  #     date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: international
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-10-03'
+  render_command:
+    output_folder_name: "output"
+    pdf_path: "Abdallah-Aloush.pdf"
+    markdown_path: "../hello.md"
+    dont_generate_html: true 
+    dont_generate_markdown: false 
+    dont_generate_png: true 
+  bold_keywords: []
