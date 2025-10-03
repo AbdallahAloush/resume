@@ -3,7 +3,6 @@ cv:
   location: Alexandria, Egypt
   email: abdallahaloush6@gmail.com
   phone: +20-12-1167-9806 
-  website:
   social_networks:
     - network: LinkedIn
       username: abdallah-aloush
@@ -70,14 +69,14 @@ cv:
       - name: "[Fundamentals of Back End Engineering by Hussein Nasser](http://ude.my/UC-47ad85aa-bf6a-465a-b6ee-20ab849c4c75)"
 design:
   theme: engineeringresumes
-  # page:
-  #   size: a4
-  #   top_margin: 1cm
-  #   bottom_margin: 1cm
-  #   left_margin: 1cm
-  #   right_margin: 1cm
-  #   show_page_numbering: true
-  #   show_last_updated_date: true
+  page:
+    size: a4
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
+    show_page_numbering: true
+    show_last_updated_date: true
   # colors:
   #   text: rgb(0, 0, 0)
   #   name: rgb(0, 79, 144)
@@ -213,9 +212,8 @@ locale:
 rendercv_settings:
   date: '2025-10-03'
   render_command:
-    output_folder_name: "output"
-    pdf_path: "Abdallah-Aloush.pdf"
-    markdown_path: "../hello.md"
+    pdf_path: NAME_IN_KEBAB_CASE.pdf
+    markdown_path: README.md
     dont_generate_html: true 
     dont_generate_markdown: false 
     dont_generate_png: true 
