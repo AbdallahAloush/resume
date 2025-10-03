@@ -48,6 +48,11 @@
 - Built a stack-based infix-to-postfix converter, improving expression evaluation efficiency.
 - Stored evaluated expressions in a BST, enabling faster variable lookup.
 
+## Datastructures and Algorithms Implementations
+
+- Designed an in-memory dictionary utlizing BST, enabling quick spelling checks and corrections.
+- Designed a sorting algorithms benchmark app, enabling clear comparison of algorithms efficiency.
+
 # Skills
 
 - Programming Languages: C | Rust | Python | SQL | Java | JavaScript
