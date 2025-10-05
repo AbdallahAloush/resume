@@ -53,6 +53,13 @@
 - Designed an in-memory dictionary utlizing BST, enabling quick spelling checks and corrections.
 - Designed a sorting algorithms benchmark app, enabling clear comparison of algorithms efficiency.
 
+## Operating Systems Projects
+
+- Multithreaded matrix multiplication and merge sorting
+- Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
+- Designed a producer–consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources.
+- Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
+
 # Skills
 
 - Programming Languages: C | Rust | Python | SQL | Java | JavaScript
