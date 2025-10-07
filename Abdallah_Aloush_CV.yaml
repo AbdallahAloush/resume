@@ -67,13 +67,21 @@ cv:
           - Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
           - "Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources."
           - Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
+      - name: Car Rental
+        summary: Express and Nodejs
+        highlights:
+          - Website that interface with MySQL and allows renting cars.
+      - name: "[Fruit Ninja](https://www.halfbrick.com/games/fruit-ninja-classic) game clone"
+        summary: Java
+        highlights:
+          - Used several OOP design patterns including Singleton, Factory, and Strategy, resulting in a more extensible code.
     skills:
       - label: Programming Languages
         details: C | Rust | Python | SQL | Java | JavaScript
       - label: Web frameworks
-        details: Ruby on Rails
+        details: Ruby on Rails | Express
       - label: Tools
-        details: Git | OOP | Datastructures | Algorithms
+        details: Git | OOP | Datastructures | Algorithms | Design Patterns
     extracurricular_activities:
       - name: Loyal Victorians
         highlights: 
