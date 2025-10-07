@@ -22,6 +22,8 @@
 - Built multiple verification endpoints using Ruby on Rails, resulting in a more efficient verification process.
 - Implemented authorization policies using Pundit, enforcing compliance with data access rules.
 - Wrote and maintained API documentation using Swagger, resulting in fewer integration errors.
+- Contributed to a CRUD API using **Ruby on Rails**, gaining hands-on experience in Backend workflows.
+- Performed database migrations, allowing the support of new API features and ensuring data preservation.
 
 # Projects
 
@@ -57,14 +59,22 @@
 
 - Multithreaded matrix multiplication and merge sorting
 - Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
-- Designed a producer–consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources.
+- Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources.
 - Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
+
+## Car Rental
+
+- Website that interface with MySQL and allows renting cars.
+
+## [Fruit Ninja](https://www.halfbrick.com/games/fruit-ninja-classic) game clone
+
+- Used several OOP design patterns including Singleton, Factory, and Strategy, resulting in a more extensible code.
 
 # Skills
 
 - Programming Languages: C | Rust | Python | SQL | Java | JavaScript
-- Web frameworks: Ruby on Rails
-- Tools: Git | OOP | Datastructures | Algorithms
+- Web frameworks: Ruby on Rails | Express
+- Tools: Git | OOP | Datastructures | Algorithms | Design Patterns
 # Extracurricular Activities
 
 ## Loyal Victorians
@@ -72,6 +82,9 @@
 - Best media member of the science and engineering fair committee.
 - Head of Media in the Graduation Ceremony Organizing Committee.
 
+# Courses
+
+- College: Programming | Datastructures | Discrete Math | Algorithms | Operating Systems | Database Systems | Computer Networks | Computer and Network Security | Software Engineering
 # Certifications
 
 ## [Fundamentals of Back End Engineering by Hussein Nasser](http://ude.my/UC-47ad85aa-bf6a-465a-b6ee-20ab849c4c75)
