@@ -66,14 +66,6 @@
 - Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources.
 - Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
 
-## Car Rental
-
-- Website that interface with MySQL and allows renting cars.
-
-## [Fruit Ninja](https://www.halfbrick.com/games/fruit-ninja-classic) game clone
-
-- Used several OOP design patterns including Singleton, Factory, and Strategy, resulting in a more extensible code.
-
 # Skills
 
 - Programming Languages: C | Rust | Python | SQL | Java | JavaScript
