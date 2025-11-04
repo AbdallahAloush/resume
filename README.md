@@ -16,6 +16,10 @@
 
 # Experience
 
+## Egyptian Armed Forces, Mandatory Military Service
+
+- July 2024 – Sept 2025
+
 ## TrianglZ LLC, Back End SWE Intern
 
 - Feb 2023 – Apr 2023

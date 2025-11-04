@@ -19,6 +19,10 @@ cv:
         highlights:
           - "GPA: 3.2/4.0"
     experience:
+      - company: Egyptian Armed Forces
+        position: Mandatory Military Service
+        start_date: 2024-07
+        end_date: 2025-09
       - company: TrianglZ LLC
         position: Back End SWE Intern
         date:
