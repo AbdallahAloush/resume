@@ -31,40 +31,28 @@
 
 # Projects
 
-## Relational Database Management System (Graduation Project)
+## [Relational Database Management System (Graduation Project)](https://github.com/omarsamir27/aquaDB)
 
 - Designed an SQL parser and developed logical and physical query planning systems capable of handling multiple inner joins, sorting, filtering, and grouping operations.
 - Architected a storage engine featuring optimized buffer utilization, incorporating Hash and B+ Tree indexes, and supporting variable-length relation attributes.
 - Implemented support for dynamic schemas encompassing various data types and relational constraints.
 
-## Gym Management System
+## [Gym Management System](https://github.com/swe-sp22/term-project-g2)
 
 - Implemented a user-friendly GUI using JavaFX for adding, modifying, and managing users' data.
 - Adhered to Test-Driven Development (TDD) methodologies within our team to ensure the system's integrity and conduct ongoing regression testing while collectively implementing new features.
 - Used several OOP design patterns, including Singleton and Factory patterns, resulting in a readable and extensible code base.
 
-## Multithreaded Server-Client
+## [Multithreaded Server-Client](https://github.com/AbdallahAloush/Server_Client)
 
 - Designed a multithreaded HTTP server, maintaining a persistent connection for each client.
 - Implemented a heuristic timeout algorithm, preventing the server from being overloaded.
 - Designed and implemented a simple client, allowing more robust testing of the server.
 
-## Mathematical Expression Interpreter
+## [Mathematical Expression Interpreter](https://github.com/AbdallahAloush/Expression-Interpreter)
 
 - Built a stack-based infix-to-postfix converter, improving expression evaluation efficiency.
 - Stored evaluated expressions in a BST, enabling faster variable lookup.
-
-## Datastructures and Algorithms Implementations
-
-- Designed an in-memory dictionary utlizing BST, enabling quick spelling checks and corrections.
-- Designed a sorting algorithms benchmark app, enabling clear comparison of algorithms efficiency.
-
-## Operating Systems Projects
-
-- Multithreaded matrix multiplication and merge sorting
-- Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
-- Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources.
-- Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
 
 # Skills
 
@@ -78,9 +66,6 @@
 - Best media member of the science and engineering fair committee.
 - Head of Media in the Graduation Ceremony Organizing Committee.
 
-# Courses
-
-- College: Programming | Datastructures | Discrete Math | Algorithms | Operating Systems | Database Systems | Computer Networks | Computer and Network Security | Software Engineering
 # Certifications
 
 ## [Fundamentals of Back End Engineering by Hussein Nasser](http://ude.my/UC-47ad85aa-bf6a-465a-b6ee-20ab849c4c75)

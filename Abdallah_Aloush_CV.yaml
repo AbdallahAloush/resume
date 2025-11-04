@@ -35,41 +35,41 @@ cv:
           - Contributed to a CRUD API using **Ruby on Rails**, gaining hands-on experience in Backend workflows.
           - Performed database migrations, allowing the support of new API features and ensuring data preservation.
     projects:
-      - name: 'Relational Database Management System (Graduation Project)'
+      - name: '[Relational Database Management System (Graduation Project)](https://github.com/omarsamir27/aquaDB)'
         summary: Rust
         highlights:
           - Designed an SQL parser and developed logical and physical query planning systems capable of handling multiple inner joins, sorting, filtering, and grouping operations.
           - Architected a storage engine featuring optimized buffer utilization, incorporating Hash and B+ Tree indexes, and supporting variable-length relation attributes.
           - Implemented support for dynamic schemas encompassing various data types and relational constraints.
-      - name: 'Gym Management System'
+      - name: '[Gym Management System](https://github.com/swe-sp22/term-project-g2)'
         summary: Java
         highlights:
           - Implemented a user-friendly GUI using JavaFX for adding, modifying, and managing users' data.
           - Adhered to Test-Driven Development (TDD) methodologies within our team to ensure the system's integrity and conduct ongoing regression testing while collectively implementing new features.
           - Used several OOP design patterns, including Singleton and Factory patterns, resulting in a readable and extensible code base.
-      - name: Multithreaded Server-Client
+      - name: '[Multithreaded Server-Client](https://github.com/AbdallahAloush/Server_Client)'
         summary: Python
         highlights:
           - Designed a multithreaded HTTP server, maintaining a persistent connection for each client.
           - Implemented a heuristic timeout algorithm, preventing the server from being overloaded.
           - Designed and implemented a simple client, allowing more robust testing of the server.
-      - name: Mathematical Expression Interpreter
+      - name: '[Mathematical Expression Interpreter](https://github.com/AbdallahAloush/Expression-Interpreter)'
         summary: C
         highlights:
           - Built a stack-based infix-to-postfix converter, improving expression evaluation efficiency.
           - Stored evaluated expressions in a BST, enabling faster variable lookup.
-      - name: Datastructures and Algorithms Implementations
-        summary: "Implementations of several commonly used Algorithms and Datastructures using **C**" 
-        highlights:
-          - Designed an in-memory dictionary utlizing BST, enabling quick spelling checks and corrections.
-          - Designed a sorting algorithms benchmark app, enabling clear comparison of algorithms efficiency.
-      - name: Operating Systems Projects
-        summary: Collection of projects, simulating different parts of the OS and exprerimenting with POSIX threads on linux
-        highlights:
-          - Multithreaded matrix multiplication and merge sorting
-          - Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
-          - "Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources."
-          - Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
+      # - name: Datastructures and Algorithms Implementations
+        # summary: "Implementations of several commonly used Algorithms and Datastructures using **C**" 
+        # highlights:
+          # - Designed an in-memory dictionary utlizing BST, enabling quick spelling checks and corrections.
+          # - Designed a sorting algorithms benchmark app, enabling clear comparison of algorithms efficiency.
+      # - name: Operating Systems Projects
+        # summary: Collection of projects, simulating different parts of the OS and exprerimenting with POSIX threads on linux
+        # highlights:
+          # - Multithreaded matrix multiplication and merge sorting
+          # - Built a simulator for FIFO, LRU, CLOCK, and OPTIMAL page replacement algorithms, tracking and comparing page faults across test cases.
+          # - "Designed a producer-consumer system with multiple roles (producers, counters, collectors), using semaphores to coordinate shared resources."
+          # - Created a simplified shell supporting command parsing, execution, background processes, and process termination logging.
     skills:
       - label: Programming Languages
         details: C | Rust | Python | SQL | Java | JavaScript
@@ -82,21 +82,21 @@ cv:
         highlights: 
         - Best media member of the science and engineering fair committee.
         - Head of Media in the Graduation Ceremony Organizing Committee.
-    courses:
-      - label: College
-        details: Programming | Datastructures | Discrete Math | Algorithms | Operating Systems | Database Systems | Computer Networks | Computer and Network Security | Software Engineering 
+    # courses:
+      # - label: College
+        # details: Programming | Datastructures | Discrete Math | Algorithms | Operating Systems | Database Systems | Computer Networks | Computer and Network Security | Software Engineering 
     certifications:
       - name: "[Fundamentals of Back End Engineering by Hussein Nasser](http://ude.my/UC-47ad85aa-bf6a-465a-b6ee-20ab849c4c75)"
 design:
   theme: engineeringresumes
   page:
     size: a4
-    top_margin: 1.5cm
-    bottom_margin: 1.5cm
-    left_margin: 1.5cm
-    right_margin: 1.5cm
-    show_page_numbering: true
-    show_last_updated_date: true
+    top_margin: 1.25cm
+    bottom_margin: 1.2445cm
+    left_margin: 1.25cm
+    right_margin: 1.25cm
+    show_page_numbering: false
+    show_last_updated_date: false
   # colors:
   #   text: rgb(0, 0, 0)
   #   name: rgb(0, 79, 144)
@@ -110,9 +110,9 @@ design:
   #   leading: 0.6em
   #   alignment: justified
   #   date_and_location_column_alignment: right
-  # links:
-  #   underline: false
-  #   use_external_link_icon: true
+  links:
+    underline: false
+    use_external_link_icon: true
   # header:
   #   name_font_family: Source Sans 3
   #   name_font_size: 30pt
@@ -194,8 +194,8 @@ design:
 locale:
   language: en
   phone_number_format: international
-  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  last_updated_date_template: Last updated in TODAY
+  # page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  # last_updated_date_template: Last updated in TODAY
   date_template: MONTH_ABBREVIATION YEAR
   month: month
   months: months
