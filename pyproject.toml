@@ -2,7 +2,7 @@
 name = "resume"
 version = "0.1.0"
 description = "Abdallah Aloush's CV, built with RenderCV"
-requires-python = ">=3.15"
+requires-python = ">=3.12"
 dependencies = [
     "rendercv[full]>=2.8",
 ]

@@ -1,8 +1,9 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Abdallah Aloush
   location: Alexandria, Egypt
   email: abdallahaloush6@gmail.com
-  phone: +20-12-1167-9806 
+  phone: "+201211679806"
   social_networks:
     - network: LinkedIn
       username: abdallah-aloush
@@ -15,7 +16,6 @@ cv:
         degree: BS
         start_date: 2018
         end_date: 2023
-        summary:
         highlights:
           - "GPA: 3.2/4.0"
     experience:
@@ -27,7 +27,6 @@ cv:
         position: Back End SWE Intern
         start_date: 2023-02
         end_date: 2023-04
-        summary:
         highlights:
           - Built multiple verification endpoints using Ruby on Rails, resulting in a more efficient verification process.
           - Implemented authorization policies using Pundit, enforcing compliance with data access rules.
@@ -79,9 +78,9 @@ cv:
         details: Git | OOP | Datastructures | Algorithms | Design Patterns
     extracurricular_activities:
       - name: Loyal Victorians
-        highlights: 
-        - Best media member of the science and engineering fair committee.
-        - Head of Media in the Graduation Ceremony Organizing Committee.
+        highlights:
+          - Best media member of the science and engineering fair committee.
+          - Head of Media in the Graduation Ceremony Organizing Committee.
     # courses:
       # - label: College
         # details: Programming | Datastructures | Discrete Math | Algorithms | Operating Systems | Database Systems | Computer Networks | Computer and Network Security | Software Engineering 
@@ -95,14 +94,13 @@ design:
     bottom_margin: 1.2445cm
     left_margin: 1.25cm
     right_margin: 1.25cm
-    show_footer: false
     show_top_note: false
-  links:
-    underline: false
-    show_external_link_icon: true
   header:
     connections:
       phone_number_format: international
+  links:
+    underline: false
+    show_external_link_icon: true
   section_titles:
     type: with_partial_line
     space_above: 0.4cm
@@ -113,48 +111,10 @@ design:
       bullet: •
       space_above: 0cm
       space_between_items: 0cm
-  templates:
-    single_date: MONTH_ABBREVIATION YEAR
-    date_range: START_DATE – END_DATE
-locale:
-  language: english
-  month: month
-  months: months
-  year: year
-  years: years
-  present: present
-  month_abbreviations:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
-  month_names:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
 settings:
-  current_date: '2025-10-03'
+  pdf_title: NAME's CV
   render_command:
     pdf_path: NAME_IN_KEBAB_CASE.pdf
     markdown_path: README.md
     dont_generate_html: true
-    dont_generate_markdown: false
     dont_generate_png: true
-  bold_keywords: []
